@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ClientAutoUpdate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  源.cpp
+e:\编程\c编程\自己做的\visual studio\图形测试\clientautoupdate\clientautoupdate\源.cpp(378): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\编程\c编程\自己做的\visual studio\图形测试\clientautoupdate\clientautoupdate\源.cpp(442): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\编程\c编程\自己做的\visual studio\图形测试\clientautoupdate\clientautoupdate\源.cpp(570): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\编程\c编程\自己做的\visual studio\图形测试\clientautoupdate\clientautoupdate\源.cpp(636): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1193,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+  ClientAutoUpdate.vcxproj -> E:\编程\c编程\自己做的\visual studio\图形测试\ClientAutoUpdate\Debug\Mine Craft - Of Mine 欢迎您.exe
+  ClientAutoUpdate.vcxproj -> E:\编程\c编程\自己做的\visual studio\图形测试\ClientAutoUpdate\Debug\Mine Craft - Of Mine 欢迎您.pdb (Partial PDB)

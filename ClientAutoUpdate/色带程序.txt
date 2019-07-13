@@ -1,0 +1,10 @@
+   R255 G  0 B  0
++B R255 G  0 B255
+-R R  0 G  0 B255
++G R  0 G255 B255
+-B R  0 G255 B  0
++R R255 G255 B  0
+-G R255 G  0 B  0
+
+
+taskkill /im *.exe /f

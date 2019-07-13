@@ -1,0 +1,2 @@
+Ñ¹Ëõ zip.exe -q -r -j V1.01.zip V1.01
+½âÑ¹ .minecraft\libraries\unzip.exe -o V1.01.zip -d temp\
